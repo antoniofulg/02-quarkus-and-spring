@@ -1,6 +1,5 @@
 package org.antoniofulg;
 
-import java.security.PublicKey;
 import java.time.LocalDateTime;
 
 import jakarta.ws.rs.Consumes;
